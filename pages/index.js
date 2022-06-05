@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="노는방 홈페이지" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          디스코드 역사상 제일 재미있는 노는방 디스코드. <code>\n https://discord.gg/4wwrEf5uRV</code>
         </p>
       </main>
 
