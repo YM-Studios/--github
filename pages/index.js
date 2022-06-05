@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="노는방 " />
+        <Header title="노는방 홈페이지" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
