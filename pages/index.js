@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>노는방 홈페이지</title>
+        <link rel="icon" href="https://cdn.discordapp.com/icons/955415810057338890/921ee594dfdbf19530ca5c0fcc9738d2.webp?size=128" />
       </Head>
 
       <main>
